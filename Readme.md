@@ -9,4 +9,6 @@ Un proyecto para practicar Git/Github
 - Workflows en github
 
 Creado por Jorge R.
+Incluye ejemplos.
+Disponible para todos los devs.
 
