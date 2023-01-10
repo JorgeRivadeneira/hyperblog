@@ -10,4 +10,5 @@ Un proyecto para practicar Git/Github
 
 Creado por Jorge R.
 Incluye ejemplos.
+Disponible para todos los devs.
 
